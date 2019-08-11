@@ -14,6 +14,14 @@ weight = 5
     "Computational Linguistics",
     "Information Retrieval"
   ]
+  
+# List your academic interests.
+[interests]
+  interests = [
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
